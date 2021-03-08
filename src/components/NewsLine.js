@@ -19,7 +19,7 @@ export default class NewsLine extends React.Component {
       <div className="NewsLine">
         {this.props.content.map(
           o => <NewsLineItem 
-            key={o.key}
+            key = {o.key}
             icon={o.icon}
             mediaTitle={o.mediaTitle}
             text={o.text}

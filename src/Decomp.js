@@ -30,7 +30,7 @@ export function General () {
       o.icon = "";
     }
   });
-  // console.log(NewsItems);
+  // console.log(TopVisits);
   return (
     <React.Fragment>
       <div className="General">

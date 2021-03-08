@@ -9,7 +9,6 @@ const play="https://www.flaticon.com/svg/vstatic/svg/686/686463.svg?token=exp=16
  */
 export default class TVLiveBlock extends React.Component {
   static propTypes = {
-    key: PropTypes.string,
     program: PropTypes.string,
     tag: PropTypes.string,
     href: PropTypes.string,
@@ -19,7 +18,7 @@ export default class TVLiveBlock extends React.Component {
   }
   render()  {
     return (
-      <Container key={this.props.key} class="Basement-column-content" typ="a" href={this.props.href}>
+      <Container class="Basement-column-content" typ="a" href={this.props.href}>
         <Container class="play-icon" typ="img" href={play}/>
         <Container class="Basement-column-bold-text">{this.props.program}</Container>
         <Container class="Basement-column-reg-text">{this.props.tag}</Container>

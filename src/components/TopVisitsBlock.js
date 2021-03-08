@@ -7,7 +7,6 @@ import Container from './Container';
  */
 export default class TopVisitsBlock extends React.Component {
   static propTypes = {
-    key: PropTypes.string,
     topic: PropTypes.string,
     desc: PropTypes.string,
     href: PropTypes.string,
@@ -17,7 +16,7 @@ export default class TopVisitsBlock extends React.Component {
   }
   render()  {
     return (
-      <Container key={this.props.key} class="Basement-column-content" typ="a" href={this.props.href}>
+      <Container class="Basement-column-content" typ="a" href={this.props.href}>
         <Container class="Basement-column-bold-text">{this.props.topic}</Container>
         <Container class="Basement-column-reg-text">{this.props.desc}</Container>
       </Container>
