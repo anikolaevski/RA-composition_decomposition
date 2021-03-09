@@ -215,7 +215,7 @@ html,body {
   flex-direction: row;
   flex-wrap:nowrap;
   justify-content: flex-start;
-  align-items:flex-start;
+  align-items:center;
   text-decoration: none;
   color: #000;
   margin-bottom: 5px;
