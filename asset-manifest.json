@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RA-composition_decomposition/static/css/main.194410a5.chunk.css",
+    "main.js": "/RA-composition_decomposition/static/js/main.27a87a42.chunk.js",
+    "main.js.map": "/RA-composition_decomposition/static/js/main.27a87a42.chunk.js.map",
+    "runtime-main.js": "/RA-composition_decomposition/static/js/runtime-main.9d5f374d.js",
+    "runtime-main.js.map": "/RA-composition_decomposition/static/js/runtime-main.9d5f374d.js.map",
+    "static/js/2.5e6dbdaa.chunk.js": "/RA-composition_decomposition/static/js/2.5e6dbdaa.chunk.js",
+    "static/js/2.5e6dbdaa.chunk.js.map": "/RA-composition_decomposition/static/js/2.5e6dbdaa.chunk.js.map",
+    "index.html": "/RA-composition_decomposition/index.html",
+    "static/css/main.194410a5.chunk.css.map": "/RA-composition_decomposition/static/css/main.194410a5.chunk.css.map",
+    "static/js/2.5e6dbdaa.chunk.js.LICENSE.txt": "/RA-composition_decomposition/static/js/2.5e6dbdaa.chunk.js.LICENSE.txt",
+    "static/media/logo.c9975e67.svg": "/RA-composition_decomposition/static/media/logo.c9975e67.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5f374d.js",
+    "static/js/2.5e6dbdaa.chunk.js",
+    "static/css/main.194410a5.chunk.css",
+    "static/js/main.27a87a42.chunk.js"
+  ]
+}
